@@ -1,9 +1,9 @@
-# WorkBuddy 每日积分签到（自动领取）
+# WorkBuddy 每日积分自动签到
 
 > **版本适配：本发行版适配 WorkBuddy 桌面客户端 5.9.3（Windows）。**
 > 发行标签 `v5.9.3` 表示适配的客户端版本；其他客户端版本未验证，升级后可能需要重新适配。
 >
-> 下载：[适配 5.9.3 的发行版](https://github.com/FIGHTFATE2023/workbuddy/releases/tag/v5.9.3)，选择附件 `wb-checkin-5.9.3.zip`，解压后双击 `install.cmd`。
+> 下载：[适配 5.9.3 的发行版](https://github.com/FIGHTFATE2023/workbuddy-daily-checkin/releases/tag/v5.9.3)，选择附件 `workbuddy-daily-checkin-5.9.3.zip`，解压后双击 `install.cmd`。
 
 一个无人值守的 Windows 小工具：每天早上 8 点自动领取 WorkBuddy「Buddy 加油站」的每日积分，防止断签（断签清零，第 7 天是 1000 分）。幂等设计——已领过就跳过，重复执行不会多领、不会扣分。
 

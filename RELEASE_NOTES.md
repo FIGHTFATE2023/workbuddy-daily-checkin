@@ -1,10 +1,10 @@
-# WorkBuddy 每日积分签到 — 适配 5.9.3
+# WorkBuddy 每日积分自动签到 — 适配 5.9.3
 
 本发行版适配 **WorkBuddy Windows 桌面客户端 5.9.3**。标签 `v5.9.3` 对应适配的客户端版本，其他客户端版本未验证。
 
 ## 下载与安装
 
-1. 下载发行附件 **`wb-checkin-5.9.3.zip`** 并解压。
+1. 下载发行附件 **`workbuddy-daily-checkin-5.9.3.zip`** 并解压。
 2. 确保 Windows 10/11 已安装 Python 3.9+，并启动 WorkBuddy **5.9.3**、登录自己的账号。
 3. 双击 `install.cmd`，或执行 `powershell -NoProfile -ExecutionPolicy Bypass -File .\install.ps1`。
 4. 安装器将脚本复制到 `%USERPROFILE%\.workbuddy\wb-checkin`，并注册每天 08:00、08:05、08:20 执行的计划任务。
