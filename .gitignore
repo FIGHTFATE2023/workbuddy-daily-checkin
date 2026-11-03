@@ -1,0 +1,11 @@
+# Local credentials and runtime output
+credentials.json
+credentials.*.json
+.env
+.env.*
+*.log
+__pycache__/
+*.py[cod]
+
+# Release assets are uploaded to GitHub Releases
+*.zip
